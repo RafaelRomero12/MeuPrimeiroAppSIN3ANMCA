@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\2592084c9954f2860b575f22a9b6d649\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb007dcc0ada9eceb8702c1bf10a9a78\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\79672e93be5303936fee8114bacd2fe0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\df75d6ed7c7984f265f221bbebf386f4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2690b206a3b6c6287eb48c6d89ac19c1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\16100022c3fbd4c4c95072479cb2ca0c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\515df2baa5b8819413dadfda71b8b3ff\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\5fea311cef883a0eaedf68da590045c3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3b3ac8429b184fee7ef7d8a7a4f1abf6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\10e414f2f5543c443b11ba0a958b9cd3\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:4:5-18:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\2592084c9954f2860b575f22a9b6d649\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\2592084c9954f2860b575f22a9b6d649\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb007dcc0ada9eceb8702c1bf10a9a78\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb007dcc0ada9eceb8702c1bf10a9a78\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\79672e93be5303936fee8114bacd2fe0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\79672e93be5303936fee8114bacd2fe0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\df75d6ed7c7984f265f221bbebf386f4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\df75d6ed7c7984f265f221bbebf386f4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2690b206a3b6c6287eb48c6d89ac19c1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2690b206a3b6c6287eb48c6d89ac19c1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\16100022c3fbd4c4c95072479cb2ca0c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\16100022c3fbd4c4c95072479cb2ca0c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\515df2baa5b8819413dadfda71b8b3ff\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\515df2baa5b8819413dadfda71b8b3ff\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\5fea311cef883a0eaedf68da590045c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\5fea311cef883a0eaedf68da590045c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3b3ac8429b184fee7ef7d8a7a4f1abf6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3b3ac8429b184fee7ef7d8a7a4f1abf6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\10e414f2f5543c443b11ba0a958b9cd3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\10e414f2f5543c443b11ba0a958b9cd3\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:9:9-40
+activity#br.usjt.meuprimeiroapp.MainActivity
+ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:10:9-16:20
+	android:name
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:10:19-47
+intent-flter
+ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:11:13-15:28
+action#android.intent.action.MAIN
+ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:13:17-14:23
+	android:name
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:13:27-74
+activity#br.usjt.meuprimeiroapp.DisplayMessageActivity
+ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml:17:19-57
+uses-sdk
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\2592084c9954f2860b575f22a9b6d649\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\2592084c9954f2860b575f22a9b6d649\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb007dcc0ada9eceb8702c1bf10a9a78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\eb007dcc0ada9eceb8702c1bf10a9a78\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\79672e93be5303936fee8114bacd2fe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\79672e93be5303936fee8114bacd2fe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\df75d6ed7c7984f265f221bbebf386f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\df75d6ed7c7984f265f221bbebf386f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2690b206a3b6c6287eb48c6d89ac19c1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2690b206a3b6c6287eb48c6d89ac19c1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\16100022c3fbd4c4c95072479cb2ca0c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\16100022c3fbd4c4c95072479cb2ca0c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\515df2baa5b8819413dadfda71b8b3ff\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\515df2baa5b8819413dadfda71b8b3ff\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\5fea311cef883a0eaedf68da590045c3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\5fea311cef883a0eaedf68da590045c3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3b3ac8429b184fee7ef7d8a7a4f1abf6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3b3ac8429b184fee7ef7d8a7a4f1abf6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\10e414f2f5543c443b11ba0a958b9cd3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\10e414f2f5543c443b11ba0a958b9cd3\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\2592084c9954f2860b575f22a9b6d649\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rafar\Documents\MeuPrimeiroAppSIN3ANMCA\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\2592084c9954f2860b575f22a9b6d649\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\79672e93be5303936fee8114bacd2fe0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\79672e93be5303936fee8114bacd2fe0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\df75d6ed7c7984f265f221bbebf386f4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\df75d6ed7c7984f265f221bbebf386f4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2690b206a3b6c6287eb48c6d89ac19c1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2690b206a3b6c6287eb48c6d89ac19c1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\16100022c3fbd4c4c95072479cb2ca0c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\16100022c3fbd4c4c95072479cb2ca0c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\515df2baa5b8819413dadfda71b8b3ff\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\515df2baa5b8819413dadfda71b8b3ff\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\5fea311cef883a0eaedf68da590045c3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\5fea311cef883a0eaedf68da590045c3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3b3ac8429b184fee7ef7d8a7a4f1abf6\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\3b3ac8429b184fee7ef7d8a7a4f1abf6\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\10e414f2f5543c443b11ba0a958b9cd3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\10e414f2f5543c443b11ba0a958b9cd3\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\2592084c9954f2860b575f22a9b6d649\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\2592084c9954f2860b575f22a9b6d649\AndroidManifest.xml:26:9-47
